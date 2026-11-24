@@ -1,6 +1,6 @@
 Tesi di Laurea Triennale: Analisi Comparativa Metodi XAI (BOCSOR, SHAP, Permutation) su Dati EEG
 
-Questo repository raccoglie il codice Python e l'elaborato della mia Tesi di Laurea Triennale in Ingegneria Informatica presso l'Università di Pisa, sviluppata sotto la preziosa supervisione dei relatori Ing. Antonio Luca Alfeo e Prof. Mario G.C.A. Cimino.
+Questo repository contiene l'elaborato della mia Tesi di Laurea Triennale in Ingegneria Informatica presso l'Università di Pisa, sviluppata sotto la preziosa supervisione dei relatori Ing. Antonio Luca Alfeo e Prof. Mario G.C.A. Cimino.
 
 **Panoramica del Progetto:** L'obiettivo del lavoro è affrontare il problema della "scatola nera" nei modelli di Machine Learning applicati a contesti critici. La tesi valuta e confronta l'efficienza e l'affidabilità di diverse tecniche di Explainable AI (XAI) per l'estrazione dell'importanza delle caratteristiche (feature importance). Nello specifico, il lavoro paragona i metodi standard ma computazionalmente costosi (come SHAP e Permutation Importance) con un innovativo approccio ibrido basato su controfattuali chiamato BoCSOR. L'analisi empirica è stata condotta su dati fisiologici complessi (dataset BCI_2 per il riconoscimento di movimenti immaginati da segnali EEG).
 
